@@ -15,7 +15,7 @@
 start
 
 :define some parameters;
-: initialize earth (and jupiter);
+:initialize earth (and jupiter);
 
 repeat
 :calculate acceleration;
@@ -23,7 +23,7 @@ repeat
 
 repeat while (simulation time is met) is (no)
 -> yes;
-: figure plotting;
+:figure plotting;
 stop
 @enduml
 
